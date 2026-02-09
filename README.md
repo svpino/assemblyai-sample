@@ -1,6 +1,6 @@
 # AssemblyAI Universal-3 Pro Sample
 
-A simple Python example demonstrating how to transcribe audio using AssemblyAI's [Universal-3 Pro](https://www.assemblyai.com/universal-3-pro) speech model.
+A simple Python example demonstrating how to transcribe audio using AssemblyAI's [Universal-3 Pro](https://www.assemblyai.com/universal-3-pro?utm_source=github&utm_medium=influencer&utm_campaign=santiago&utm_content=universal_3_pro) speech model.
 
 ## What it does
 
@@ -41,5 +41,5 @@ The script uses the following configuration options:
 
 ## Learn more
 
-- [Universal-3 Pro](https://www.assemblyai.com/universal-3-pro) - AssemblyAI's latest speech model
-- [AssemblyAI Documentation](https://www.assemblyai.com/docs)
+- [Universal-3 Pro](https://www.assemblyai.com/universal-3-pro?utm_source=github&utm_medium=influencer&utm_campaign=santiago&utm_content=universal_3_pro) - AssemblyAI's latest speech model
+- [AssemblyAI Documentation](https://www.assemblyai.com/docs?utm_source=github&utm_medium=influencer&utm_campaign=santiago&utm_content=universal_3_pro)
